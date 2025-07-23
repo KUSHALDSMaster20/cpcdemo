@@ -1,1 +1,3 @@
-kushal.Ds is the student of the cpc polytechnic Mysuru
+hello 
+iam kushal.Ds
+student of cpc
